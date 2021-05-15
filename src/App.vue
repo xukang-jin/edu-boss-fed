@@ -5,6 +5,11 @@
     <router-view />
   </div>
 </template>
+<script lang="ts">
+import Vue from 'vue'
+import request from '@/utils/request'
 
-<style lang="scss" scoped>
-</style>
+export default class App extends Vue {
+
+}
+</script>
