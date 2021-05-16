@@ -24,7 +24,7 @@ module.exports = {
         changeOrigin: true
       },
       '/front': {
-        target: 'https://edufront.lagou.com',
+        target: 'http://113.31.105.128',
         changeOrigin: true
       }
     }
